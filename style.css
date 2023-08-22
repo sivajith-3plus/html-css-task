@@ -103,7 +103,6 @@ a{
   background-color: #f1f5f9;
   padding: 30px;
   overflow-y: auto; 
-  max-height: calc(100vh - 130px); 
 }
 
 .mainContents {
